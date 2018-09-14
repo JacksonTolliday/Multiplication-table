@@ -27,4 +27,4 @@ wide= range(1, width+1)
 
 for h in range(1, height+1):
     for w in list(wide):
-        print(w)
+        print(h*w)

@@ -28,4 +28,4 @@ high= range(1, height+1)
 
 for h in list(high):
     for w in list(wide):
-        print(h*w)
+        print(h*w, end = w)

@@ -1,7 +1,7 @@
 """
 multiplication-table.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Jackson Tolliday
+Credit: https://www.programiz.com/python-programming/matrix, 
 Assignment:
 
 Write and submit a Python program that prints a multiplication table. The user 

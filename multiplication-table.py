@@ -29,5 +29,5 @@ high= range(1, height+1)
 for h in high:
     for w in wide:
         hw= h*w
-        print(('  '), hw, end = '')
+        print(('{0:>3}'.format(hw)), end = '')
 

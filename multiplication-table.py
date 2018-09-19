@@ -30,4 +30,4 @@ for h in high:
     for w in wide:
         hw= h*w
         print(('{0:>3}'.format(hw)), end = '')
-    print(\n)
+    print('\n')
